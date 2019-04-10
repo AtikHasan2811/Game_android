@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialNetwork</string>
+    <string name="dower_open">dower_open</string>
+    <string name="dower_close">dower_close</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_Computer"
+        android:title="Vs Computer"
+        android:icon="@drawable/laptop"/>
+
+    <item
+        android:id="@+id/nav_Local_Multiplayer"
+        android:title="Local Multiplayer"
+        android:icon="@drawable/multiplayer"/>
+    <item
+        android:id="@+id/Online_Multiplayer"
+        android:title="Online Multiplayer"
+        android:icon="@drawable/multiplayer"/>
+
+
+    <item
+        android:id="@+id/nav_share"
+        android:title="Share"
+        android:icon="@drawable/share"/>
+
+    <item
+        android:id="@+id/nav_setting"
+        android:title="Setting"
+        android:icon="@drawable/settings"/>
+
+    <item
+        android:id="@+id/about_us_id"
+        android:title="About Us"
+        android:icon="@drawable/about"/>
+
+    <item
+        android:id="@+id/nav_quit"
+        android:title="Quit"
+        android:icon="@drawable/quit"/>
+
+</menu>
